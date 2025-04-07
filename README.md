@@ -3,7 +3,7 @@
 ## Deskripsi Proyek
 Proyek ini merupakan analisis data transaksi bank menggunakan teknik Machine Learning yang terdiri dari dua komponen utama:
 1. Clustering - Segmentasi pelanggan berdasarkan pola transaksi
-2. Klasifikasi - Prediksi tipe transaksi (Credit/Debit)
+2. Klasifikasi - Prediksi tipe transaksi 
 
 ## Informasi Proyek
 - Nama: Masahiro Gerarudo Yamazaki
