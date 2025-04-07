@@ -42,7 +42,6 @@ Dataset yang digunakan berasal dari Kaggle: [Bank Transaction Dataset for Fraud 
   - Precision dan Recall
 
 ## Persyaratan
-- Python 3.x
 - Jupyter Notebook
 - Library yang diperlukan:
   - pandas
